@@ -1,0 +1,23 @@
+_repo: A-nagy-haboru-anekdotakincse_64304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nagy, Endre
+    birthdate: 1877
+    deathdate: 1938
+    gutenberg_agent_id: '51742'
+    url: http://www.gutenberg.org/2009/agents/51742
+    wikipedia: https://hu.wikipedia.org/wiki/Nagy_Endre_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2021-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64304'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A nagy háboru anekdotakincse
+url: http://www.gutenberg.org/ebooks/64304
